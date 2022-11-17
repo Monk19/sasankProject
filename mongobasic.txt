@@ -1,0 +1,5 @@
+1.Check all databases -> show databases
+2.to check in to database we need to use it  --> use <databaseName> this returns "db" object on which we can perform all the query operations.
+3.check total no of collections -> db.<collectionName>.countDocuments()->gives total no of records.
+4.
+xasd

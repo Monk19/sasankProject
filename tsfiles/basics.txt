@@ -1,0 +1,18 @@
+typescript is stasticaly typed language or production tool
+typescript is transpiled back to javascript
+* for compiling a ts file use => tsc <fileName> --watch ] to actively compile the ts file to js
+* Types
+   Availabe Types
+   null undefined void 
+   string number boolean
+   Object Array tuples
+   any
+apple
+banana
+web3.0
+nodejs
+mognodb
+golang
+Kubernets
+aws
+ganche

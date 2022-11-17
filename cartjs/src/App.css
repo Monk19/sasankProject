@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background-color: rgb(23, 24, 46);
+}
+
+h3,
+p {
+  color: #f1c13d !important;
+}
+.App {
+  background-color: #1a252f;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+}
+h1 {
+  color: orange;
+}
+
+nav {
+  padding: 10px 0px;
+  display: flex;
+}
+a {
+  text-decoration: none;
+  padding: 0px 10px;
+  color: white;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+footer {
+  position: fixed;
+  background-color: white;
+  bottom: 0px;
+  width: 100%;
+}

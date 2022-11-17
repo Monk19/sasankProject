@@ -1,0 +1,17 @@
+.bing-bucket-overlay {
+  position: absolute;
+  display: flex;
+  justify-content: end;
+  width: 100vw;
+  top: 0px;
+  right: 10px;
+}
+.bing-bucket-overlay > div {
+  width: 30%;
+  min-height: 100vh;
+  background-color: rgba(35, 35, 35, 0.937);
+  color: white;
+}
+.cart-items {
+  padding: 0px 5px;
+}
